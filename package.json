@@ -16,6 +16,7 @@
     "blessed": "0.1.54"
   },  
   "dependencies": {
+    "watch": "> 0.0.1",
     "ansi-term": ">=0.0.1",
     "drawille-canvas-blessed-contrib": ">=0.0.1",
     "map-canvas": ">=0.1.5",
